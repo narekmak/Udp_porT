@@ -1,0 +1,26 @@
+{
+  "name": "udp-server",
+  "version": "1.0.0",
+  "description": "A simple UDP implementation",
+  "main": "udp.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paerallax/udp-server.git"
+  },
+  "keywords": [
+    "Node",
+    "UDP",
+    "Datagrams"
+  ],
+  "author": "Narek Makaryan (narekma96@gmail.com)",
+  "license": "ISC",
+  
+  },
+ 
+  "dependencies": {
+    "readline-sync": "^1.4.5"
+  }
+}
